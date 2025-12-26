@@ -47,34 +47,6 @@ RaktKosh is a full-stack **Blood Bank & Blood Donor Management System** designed
 
 ---
 
-## 📂 Project Structure
-
-```
-RaktKosh/
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── config/
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   └── App.jsx
-│   ├── index.html
-│   └── package.json
-│
-├── .gitignore
-└── README.md
-```
-
----
 
 ## ⚙️ Installation & Setup
 
