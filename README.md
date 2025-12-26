@@ -101,9 +101,14 @@ http://localhost:5173
 ## 📸 Screens (Implemented)
 
 * Home Page
+  <img width="1917" height="917" alt="Screenshot 2025-12-26 210504" src="https://github.com/user-attachments/assets/9c184770-9468-4e5e-adf5-387d1e8dcaa7" />
+
 * Find Blood
-* Blood Inventory
+  <img width="1905" height="916" alt="Screenshot 2025-12-26 210521" src="https://github.com/user-attachments/assets/2d791c21-a9ac-4be0-9bc9-fe3faccd9223" />
 * Login / Register
+<img width="1916" height="908" alt="Screenshot 2025-12-26 210624" src="https://github.com/user-attachments/assets/1ea62247-65bf-4e5e-ae14-eb9cd42c0457" />
+
+
 * About Us
 * Contact Us
 * Role-based Registration Forms
